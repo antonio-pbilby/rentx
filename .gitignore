@@ -1,0 +1,8 @@
+node_modules
+tmp
+.env
+.editorconfig
+plsignoreit.txt
+dist
+coverage
+.vscode
