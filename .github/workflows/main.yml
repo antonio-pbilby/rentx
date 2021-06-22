@@ -22,7 +22,7 @@ jobs:
       
       - name: Build
         run: yarn build
-      #comment2
+      #comment
       - uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.SSH_HOST }}
